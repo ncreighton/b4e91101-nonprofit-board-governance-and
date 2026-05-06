@@ -1,2 +1,31 @@
-# b4e91101-nonprofit-board-governance-and
-An n8n workflow for nonprofit boards and governance teams automating board administration. Sends meeting agenda compilation reminders to committee chairs two weeks before board meetings, collects agenda items and pre-reads via form submissions, distributes compiled board packets to directors 5 days before meetings, triggers action item follow-up em
+# Nonprofit Board Governance and Meeting Minutes Automation Workflow
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/bJeaEX26H3o89JKdI0cZa2X)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/bJeaEX26H3o89JKdI0cZa2X)
+- [Buy on Gumroad](https://aevornsell.gumroad.com/l/bsnfq)
+- [Buy on Whop](https://whop.com/nonprofit-board-governance-and-meeting-minutes-automation-workflow)
+
